@@ -1,0 +1,15 @@
+D:\Patika\Telefon Reberi\bin\Debug\net7.0\Telefon Reberi.exe
+D:\Patika\Telefon Reberi\bin\Debug\net7.0\Telefon Reberi.deps.json
+D:\Patika\Telefon Reberi\bin\Debug\net7.0\Telefon Reberi.runtimeconfig.json
+D:\Patika\Telefon Reberi\bin\Debug\net7.0\Telefon Reberi.dll
+D:\Patika\Telefon Reberi\bin\Debug\net7.0\Telefon Reberi.pdb
+D:\Patika\Telefon Reberi\obj\Debug\net7.0\Telefon Reberi.csproj.AssemblyReference.cache
+D:\Patika\Telefon Reberi\obj\Debug\net7.0\Telefon Reberi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\Telefon Reberi\obj\Debug\net7.0\Telefon Reberi.AssemblyInfoInputs.cache
+D:\Patika\Telefon Reberi\obj\Debug\net7.0\Telefon Reberi.AssemblyInfo.cs
+D:\Patika\Telefon Reberi\obj\Debug\net7.0\Telefon Reberi.csproj.CoreCompileInputs.cache
+D:\Patika\Telefon Reberi\obj\Debug\net7.0\Telefon Reberi.dll
+D:\Patika\Telefon Reberi\obj\Debug\net7.0\refint\Telefon Reberi.dll
+D:\Patika\Telefon Reberi\obj\Debug\net7.0\Telefon Reberi.pdb
+D:\Patika\Telefon Reberi\obj\Debug\net7.0\Telefon Reberi.genruntimeconfig.cache
+D:\Patika\Telefon Reberi\obj\Debug\net7.0\ref\Telefon Reberi.dll
